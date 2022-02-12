@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+}
+a:hover{
+    text-decoration: none;
+}
+/* font-family: 'Pridi', serif;
+font-family: 'Roboto', sans-serif; */
+/* #FFDE00 */
+/* block */
+.gap-10{
+    display: block;
+    width: 100%;
+    height: 10px;
+}
+.gap-30{
+    display: block;
+    width: 100%;
+    height: 30px;
+}
+.gap-100{
+    display: block;
+    width: 100%;
+    height: 100px;
+}
